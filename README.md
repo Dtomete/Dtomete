@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dtomete
+- 👋 Hi, I’m @Daniel Eveshotomete Naomi
 - 👀 I’m interested in ...Tech
 - 🌱 I’m currently learning ...User Interface and User Experience Design
 - 💞️ I’m looking to collaborate on ...Big projects with frontend and backend developers
